@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "notcachebutshaping",
+      "description": "Send traffic through cache to help with routing it out of the right connection",
+      "domain_files": ["notcachegames.txt"]
     }
   ]
 }
